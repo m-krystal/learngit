@@ -1,1 +1,3 @@
 test checkout function
+situation 2
+

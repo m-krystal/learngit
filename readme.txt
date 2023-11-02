@@ -3,3 +3,4 @@ Git is free software
 modified 1
 nodify before remove
 test
+management modify
